@@ -1,0 +1,9 @@
+{
+    "name": "worker-debug-crash",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "main.js",
+    "scripts": {
+        "debug": "node --inspect-brk main.js"
+    }
+}
